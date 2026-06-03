@@ -1,5 +1,5 @@
 # 💫 About Me:
-online Bidding software
+Computer Science Engineering student passionate about Java, Spring Boot, MERN Stack, and software development. Building scalable applications and continuously learning new technologies.
 
 
 ## 🌐 Socials:
